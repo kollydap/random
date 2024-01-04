@@ -1,0 +1,842 @@
+[
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KRBN/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KRBN_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GRN_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GRN_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GRN_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GRN_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GRN_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GRN_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GRN_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GRN_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GRN_YDT_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GRN_YDT_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GRN_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GRN_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GRN_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/GRN/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GRN_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_TYD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KEUA/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KEUA_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KCCA/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KCCA_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/TCBN.TO/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "TCBN_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CARB_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CARB_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CARB_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CARB_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CARB_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CARB_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CARB_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CARB_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CARB_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CARB_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CARB_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CARB_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CARB_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/CARB.TO/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CARB_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KARB_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KARB_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KARB_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KARB_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KARB_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KARB_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KARB_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KARB_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KARB_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KARB_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KARB_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KARB_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KARB_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KARB/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KARB_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CBON_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CBON_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CBON_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CBON_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CBON_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CBON_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CBON_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CBON_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CBON_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CBON_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CBON_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CBON_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "CBON_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/0P0001OQ2G.TO/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "CBON_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/DESG.NE/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "DESG_NE_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KLX_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KLX_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KLX_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KLX_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KLX_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KLX_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KLX_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KLX_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KLX_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KLX_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KLX_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KLX_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "KLX_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/KLX.V/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "KLX_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "MKT_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "MKT_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "MKT_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "MKT_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "MKT_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "MKT_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "MKT_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "MKT_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "MKT_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "MKT_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "MKT_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "MKT_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "MKT_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/MKT.V/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "MKT_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EIXIC/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "IXIC_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "RUT_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "RUT_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "RUT_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "RUT_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "RUT_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "RUT_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "RUT_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "RUT_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "RUT_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "RUT_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "RUT_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "RUT_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "RUT_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5ERUT/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "RUT_5Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1699833600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_1D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1699833600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_1D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1699488000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_5D_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1699488000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_5D_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1691971200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_3M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1691971200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_3M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1684022400&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_6M_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1684022400&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_6M_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1672531200&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_YTD_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1672531200&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_YTD_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1668384000&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_1Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1668384000&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_1Y_Monthly"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1542153600&period2=1699920000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_5Y_Daily"
+    },
+    {
+        "url": "https://ca.finance.yahoo.com/quote/%5EGSPC/history?period1=1542153600&period2=1699920000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true",
+        "excel_file_name": "GSPC_5Y_Monthly"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_1D_Daily"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_1D_Monthly"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_5D_Daily"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_5D_Monthly"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_3M_Daily"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_3M_Monthly"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_6M_Daily"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_6M_Monthly"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_YTD_Daily"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_YTD_Monthly"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_1Y_Daily"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_1Y_Monthly"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_5Y_Daily"
+    },
+    {
+        "url": "",
+        "excel_file_name": "KARB_5Y_Monthly"
+    }
+]
