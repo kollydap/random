@@ -1,0 +1,118 @@
+[
+  {
+    "link": "onboard",
+    "method": "POST",
+    "params": {
+      "username": "",
+      "password": "",
+      "email": "",
+      "first_name": "",
+      "last_name": ""
+    }
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/topmerchants/<crypto_name>/<fiat_currency_payout>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/get_refer_by_wallet/<uuid:merchant_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/crypto-wallets/<str:crypto_wallet_id>/",
+    "method": "PUT",
+    "params": {
+      "min_volume": "",
+      "max_volume": "",
+      "buy_rate": "",
+      "sell_rate": ""
+    }
+  },
+
+  {
+    "link": "https://merchant.wittytech.io/api/v1/sell",
+    "method": "POST",
+    "params": {
+      "merchant_id": "",
+      "amount_in_crypto": "",
+      "amount_in_fiat": "",
+      "crypto_currency": "",
+      "fiat_currency": ""
+    }
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/buy",
+    "method": "POST",
+    "params": {
+      "crypto_to_send": "",
+      "expected_fiat": "",
+      "wallet_to_credit": "",
+      "crypto_currency": "",
+      "fiat_currency": "",
+      "merchant_id": ""
+    }
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/transactions/<uuid:transaction_id>",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/check_signature/<uuid:transaction_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/supported-fiat/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/accept_transaction/<uuid:transaction_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/confirm_transaction/<uuid:transaction_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/merchant_bank/<uuid:merchant_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/get_wallet/<str:merchant_id>/<str:crypto_name>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/resign_signature/<uuid:transaction_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/confirm_payment/<uuid:transaction_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/decline_trnasaction/<uuid:transaction_id>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/create_resolution/",
+    "method": "POST",
+    "params": {
+      "transaction_id": "",
+      "customer_email": "",
+      "customer_fullname": "",
+      "dispute_description": ""
+    }
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/get_cutomer_dispute/<customer_email>/",
+    "method": "GET"
+  },
+  {
+    "link": "https://merchant.wittytech.io/api/v1/update_customer_bank/<uuid:transaction_id>/",
+    "method": ["PUT", "Patch"],
+    "params": {
+      "account_name": "",
+      "bank_name": "",
+      "bank_account_number": ""
+    }
+  }
+]
