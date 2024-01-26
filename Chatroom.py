@@ -4,13 +4,18 @@ import threading
 
 class Chatroom:
     def __init__(self, user_name: str, room_name: str) -> None:
+        # a list of connected 
         self.user_name = user_name
         self.room_name = room_name
-        listening_thread = threading.Thread(self.open_channel, self.room_name)
+        listening_thread = threading.Thread(target=self.open_channel, args=(self.room_name,))
         listening_thread.start()
+        # creTE a thread that fetches from the database
 
-        self.open_channel(room_name)
 
+    def disconnect():
+        ...
+    
+    
     def open_channel(self, room_name):
         connection = pika.BlockingConnection(
             pika.ConnectionParameters(host="localhost")
