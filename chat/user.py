@@ -18,7 +18,8 @@ class User:
         channel.start_consuming()
 
     def message_listener(self, ch, method, properties, body: str):
-        print(f"{self.username} received: {body.decode('utf-8')}")
+        print(f"\n{self.username} received: {body.decode('utf-8')}\n")
+        self.listen()  # Listen for more messages after receiving one
 
     def send_message(self, message: str):
         connection = pika.BlockingConnection(
@@ -26,4 +27,4 @@ class User:
         )
         channel = connection.channel()
         channel.basic_publish(exchange="", routing_key=self.room_name, body=message)
-        print(f"{self.username} sent: {message}")
+        print(f"{self.username} sent: {message}\n")

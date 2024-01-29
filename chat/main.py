@@ -6,20 +6,17 @@ def main():
     room_name = "happy_boys"
     chatroom = Chatroom(room_name=room_name)
 
-    kolawole = User(username="kolawole", room_name=room_name)
-    dupe = User(username="dupe", room_name=room_name)
+    username = input("Enter your username: ")
+    user = User(username=username, room_name=room_name)
 
-    chatroom.connect(kolawole)
-    chatroom.connect(dupe)
+    chatroom.connect(user)
 
     listener_thread = threading.Thread(target=chatroom.start_listening)
     listener_thread.start()
 
-    kolawole.send_message("Hello from Kolawole!")
-    dupe.send_message("Hi, Dupe here!")
-
-    kolawole.listen()
-    dupe.listen()
+    while True:
+        message = input("Type your message (press Enter to send): ")
+        user.send_message(message)
 
 if __name__ == "__main__":
     main()

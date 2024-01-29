@@ -13,7 +13,6 @@ class Chatroom:
         )
         channel = connection.channel()
         channel.basic_publish(exchange="", routing_key=self.room_name, body=message)
-        print(f"Message sent to room '{self.room_name}': {message}")
 
     def start_listening(self):
         connection = pika.BlockingConnection(
@@ -28,4 +27,4 @@ class Chatroom:
         channel.start_consuming()
 
     def message_received(self, ch, method, properties, body: str):
-        print(f"Message received in room '{self.room_name}': {body.decode('utf-8')}")
+        print(f"\nMessage received in room '{self.room_name}': {body.decode('utf-8')}\n")
