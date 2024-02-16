@@ -3,7 +3,7 @@ import socket
 
 def main():
     host = "127.0.0.1"
-    port = 5000
+    port = 5001
     mySocket = socket.socket()
     mySocket.connect((host, port))
 
@@ -14,5 +14,6 @@ def main():
         print(f"Received from server: {data}")
         message = input("->")
     mySocket.close()
-    
+
+
 main()
